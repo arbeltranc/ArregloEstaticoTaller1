@@ -6,7 +6,7 @@ package arregloestaticotaller1;
 
 /**
  *
- * @author USUARIO
+ * @author ALEX BELTRAN
  */
 public class ArregloEstaticoTaller1 {
 
